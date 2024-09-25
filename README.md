@@ -1,1 +1,2 @@
 # TIK-TAK_TOE-Game
+The purpose of this Tic-Tac-Toe game is to provide a simple and enjoyable experience for two players. It offers a classic game of strategy and luck, where players must strategically place their symbols (X or O) on a 3x3 grid to form a line of their symbol horizontally, vertically, or diagonally. The game is designed to be easy to learn and play, making it suitable for players of all ages.
